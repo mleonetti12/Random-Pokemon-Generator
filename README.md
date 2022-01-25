@@ -6,7 +6,6 @@ Random Pokemon Generator app built using PyQt6 utilizing data retrieved from pok
 - Generates a unique Pokemon, ability, and moveset based on various input values
 - Able to generate off name and date, a 5 char string seed, or randomly
 - Pokemon Black and White themed GUI implemented via PyQt6
-- Queries the pokeAPI database with dex number to retrieve data on the pokemon
 
 # Citations:
 - All Pokemon data sourced from pokeAPI https://pokeapi.co
