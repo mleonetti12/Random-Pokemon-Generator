@@ -1,3 +1,3 @@
 # Random-Pokemon-Generator
 
-Need comments, readme, citations, atts.
+Need readme, citations, atts.
